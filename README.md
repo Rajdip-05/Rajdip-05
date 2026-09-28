@@ -1,16 +1,79 @@
-## Hi there 👋
+# 👋 Hi, I'm Rajdip Sannyasi
 
-<!--
-**Rajdip-05/Rajdip-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE Student | Web Developer | Python & C++ | Machine Learning
 
-Here are some ideas to get you started:
+I'm a Computer Science student at Lovely Professional University, interested in building practical software, websites, and data-driven applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning by building projects and continuously improving my programming and problem-solving skills.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming
+- C++
+- Python
+- JavaScript
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+
+### Data & Machine Learning
+- Python
+- SQL
+- Machine Learning
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 Purchase Intent Predictor
+A machine learning project that predicts whether a customer is likely to make a purchase based on user and session data.
+
+**Tech:** Python, Machine Learning
+
+### 🌐 Personal Portfolio
+My personal developer portfolio website showcasing my skills, projects, and education.
+
+**Tech:** HTML, CSS, JavaScript
+
+> More projects coming soon.
+
+---
+
+## 💼 What I Can Build
+
+- Responsive websites
+- Personal portfolios
+- Landing pages
+- Business websites
+- Python scripts and automation
+- Basic data and machine learning applications
+
+---
+
+## 🎯 Currently Learning
+
+- Data Structures & Algorithms
+- Advanced C++
+- Web Development
+- Machine Learning
+- Software Development
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/rajdip-sannyasi-169508340/)
+- 📧 Email: rajdipsannyasi123@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
