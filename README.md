@@ -34,8 +34,8 @@ I enjoy learning by building projects and continuously improving my programming 
 
 ## 🚀 Featured Projects
 
-### 🛒 Purchase Intent Predictor
-A machine learning project that predicts whether a customer is likely to make a purchase based on user and session data.
+### 🎓 Student Dropout Prediction
+A machine learning project that predicts the likelihood of student dropout based on academic and other relevant factors.
 
 **Tech:** Python, Machine Learning
 
